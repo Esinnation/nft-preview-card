@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Esinnation/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://esinnation.github.io/nft-preview-card/)
+- Solution URL:(https://github.com/Esinnation/nft-preview-card)
+- Live Site URL:(https://esinnation.github.io/nft-preview-card/)
 
 
 ## My process
