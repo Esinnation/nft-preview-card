@@ -51,11 +51,11 @@ To see how you can add code snippets, see below:
 <p>
             <div class="eth-container">
               <img src="images/icon-ethereum.svg" class="eth">
-              <span class="text3">0.041 ETH</span>
+              <span class="eth__text">0.041 ETH</span>
             </div>
             <div class="clock-container">
               <img src="images/icon-clock.svg" class="clock">
-              <span class="text4"> 3 days left</span>
+              <span class="clock__text"> 3 days left</span>
             </div>
         </p>
 ```
