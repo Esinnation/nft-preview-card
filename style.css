@@ -2,9 +2,9 @@ body, .background, .container,.image-container,.clock-container{
     display: flex;
     justify-content: center;
 }
-.eth-container, .eth,.avatar{
+/* .eth-container, .eth,.avatar{
     float: left;
-}
+} */
 .background{
     background-color: hsl(217, 54%, 11%);
     width: 1000px;
@@ -64,9 +64,13 @@ body, .background, .container,.image-container,.clock-container{
     padding:0px 5px;
 }
 
-.creator{
+.avatar-container{
+    display: flex;
+    align-items: center;
     font-size: 10px;
-    padding: 5px 0px 0px 35px;
+    padding: 5px 0px;
+    gap: 10px;
+
 }
 .creator-1{
     color: hsl(215, 51%, 70%, 70%);
