@@ -13,6 +13,8 @@ body, .background, .container,.image-container,.clock-container{
 .container{
     background-color: hsl(216, 50%, 16%);
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin: 50px 0px 50px 0px;
     border-radius: 8px;
     padding: 0px 12px 20px 12px;
@@ -20,10 +22,13 @@ body, .background, .container,.image-container,.clock-container{
 }
 .image-container{
     margin-top: 10px;
-}
-.main-image{
     width: 200px;
+    height: 200px;
     border-radius: 5px;
+    background: url(./images/image-equilibrium.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .text-container{
     width: 210px;
@@ -87,4 +92,15 @@ hr{
     height: 20px;
     border: white solid 1px;
     border-radius: 100px;
+}
+
+.image-container:hover{
+    /* display: none; */
+    background-image: url(./images/icon-view.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+    background-color:hsl(178, 100%, 50%) ;
 }
