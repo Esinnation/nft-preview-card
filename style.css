@@ -103,4 +103,5 @@ hr{
     width: 200px;
     height: 200px;
     background-color:hsl(178, 100%, 50%) ;
+    cursor: pointer;
 }
