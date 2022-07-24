@@ -105,3 +105,8 @@ hr{
     background-color:hsl(178, 100%, 50%) ;
     cursor: pointer;
 }
+
+.text__name:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
