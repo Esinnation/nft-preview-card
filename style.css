@@ -112,4 +112,5 @@ hr{
 }
 .creator-2:hover{
     color:hsl(178, 100%, 50%) ;
+    cursor: pointer;
 }
