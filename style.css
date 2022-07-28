@@ -106,11 +106,7 @@ hr{
     cursor: pointer;
 }
 
-.text__name:hover{
+.text__name:hover,.creator-2:hover{
     color: hsl(178, 100%, 50%);
-    cursor: pointer;
-}
-.creator-2:hover{
-    color:hsl(178, 100%, 50%) ;
     cursor: pointer;
 }
