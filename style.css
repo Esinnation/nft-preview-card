@@ -2,9 +2,6 @@ body, .background, .container,.image-container,.clock-container{
     display: flex;
     justify-content: center;
 }
-/* .eth-container, .eth,.avatar{
-    float: left;
-} */
 .background{
     background-color: hsl(217, 54%, 11%);
     width: 1000px;
@@ -95,7 +92,6 @@ hr{
 }
 
 .image-container:hover{
-    /* display: none; */
     background-image: url(./images/icon-view.svg);
     background-position: center;
     background-repeat: no-repeat;
