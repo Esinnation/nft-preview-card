@@ -27,6 +27,11 @@ body, .background, .container,.image-container,.clock-container{
     background-repeat: no-repeat;
     background-size: contain;
 }
+.view_icon{
+    border-radius: 8px;
+    padding: 77px;
+    background-color: hsla(178, 100%, 50%,0.5);
+}
 .text-container{
     width: 210px;
     font-family: 'Outfit', sans-serif;
