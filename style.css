@@ -91,17 +91,6 @@ hr{
     border-radius: 100px;
 }
 
-.image-container:hover{
-    background-image: url(./images/icon-view.svg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    width: 200px;
-    height: 200px;
-    background-color:hsl(178, 100%, 50%) ;
-    cursor: pointer;
-}
-
 .text__name:hover,.creator-2:hover{
     color: hsl(178, 100%, 50%);
     cursor: pointer;
