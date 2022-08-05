@@ -97,7 +97,7 @@ hr{
     border-radius: 100px;
 }
 .view_icon:hover{
-    opacity: 0.5;
+    opacity: 1;
 }
 
 .text__name:hover,.creator-2:hover{
