@@ -30,6 +30,7 @@ body, .background, .container,.image-container,.clock-container{
 .view_icon{
     border-radius: 8px;
     padding: 77px;
+    opacity: 0;
     background-color: hsla(178, 100%, 50%,0.5);
 }
 .text-container{
