@@ -96,6 +96,9 @@ hr{
     border: white solid 1px;
     border-radius: 100px;
 }
+.view_icon:hover{
+    opacity: 0.5;
+}
 
 .text__name:hover,.creator-2:hover{
     color: hsl(178, 100%, 50%);
