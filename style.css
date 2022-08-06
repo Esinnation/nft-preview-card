@@ -98,6 +98,7 @@ hr{
 }
 .view_icon:hover{
     opacity: 1;
+    cursor: pointer;
 }
 
 .text__name:hover,.creator-2:hover{
